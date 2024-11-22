@@ -1,9 +1,9 @@
 
 
-# Python Data Structures and Algorithms Projects
+# Python Data Structures and Algorithms labs
 
 ## Repository Overview
-This repository contains a curated collection of 40 Python projects and labs designed to help developers learn and master data structures and algorithms while improving their Python programming skills. Each project is structured to build upon key concepts, gradually increasing in complexity.
+This repository contains a curated collection of 40 Python labs and labs designed to help developers learn and master data structures and algorithms while improving their Python programming skills. Each project is structured to build upon key concepts, gradually increasing in complexity.
 
 ---
 
