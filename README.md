@@ -41,7 +41,7 @@ I build a lot of projects in my free time to reinforce what I’ve learned. As y
 1. [**Reverse a String**](https://github.com/kelvintechnical/Reverse-a-string)
 2. [**Palindrome Checker**](https://github.com/kelvintechnical/react-palindrone-checker)
 3. [**Two-Sum Problem**](https://github.com/kelvintechnical/two-sum-checker)
-4. **Find Maximum Element in an Array**
+4. [**Find Maximum Element in an Array**](https://github.com/kelvintechnical/Find-Maximum-Element-in-an-Array)
 5. **Factorial Calculator**
 6. **Binary Search Implementation**
 7. **Bubble Sort Implementation**
