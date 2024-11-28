@@ -40,7 +40,7 @@ I build a lot of projects in my free time to reinforce what I’ve learned. As y
 ## Beginner Projects
 1. **Reverse a String**
 2. **Palindrome Checker**
-3. **Two-Sum Problem**
+3. [**Two-Sum Problem**](https://github.com/kelvintechnical/two-sum-checker)
 4. **Find Maximum Element in an Array**
 5. **Factorial Calculator**
 6. **Binary Search Implementation**
